@@ -18,7 +18,7 @@ var table = $('table tr');
 console.log("Testing");
 
 
-// not necessary for the code to work, just for debugging purposes.
+// Checking win logic
 function reportWin(rowNum,colNum) {
   console.log("You won starting at this row : col");
   console.log(rowNum);
